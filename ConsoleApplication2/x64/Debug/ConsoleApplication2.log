@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+D:\UnityProject\TargemTestovoe\ConsoleApplication2\ConsoleApplication2.cpp(49,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\UnityProject\TargemTestovoe\ConsoleApplication2\ConsoleApplication2.cpp(50,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication2.vcxproj -> D:\UnityProject\TargemTestovoe\x64\Debug\ConsoleApplication2.exe

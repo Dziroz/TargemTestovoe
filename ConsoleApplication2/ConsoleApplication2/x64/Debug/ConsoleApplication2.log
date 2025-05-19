@@ -1,4 +1,5 @@
 ﻿  ConsoleApplication2.cpp
-D:\Plusiki\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(49,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Plusiki\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(50,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  ConsoleApplication2.vcxproj -> D:\Plusiki\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+D:\UnityProject\TargemTestovoe\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(49,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\UnityProject\TargemTestovoe\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(50,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LINK : не найден или не выполнена сборка D:\UnityProject\TargemTestovoe\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ConsoleApplication2.vcxproj -> D:\UnityProject\TargemTestovoe\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

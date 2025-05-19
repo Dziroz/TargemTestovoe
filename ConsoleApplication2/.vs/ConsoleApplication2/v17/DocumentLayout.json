@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Plusiki\\ConsoleApplication2\\",
+  "WorkspaceRootPath": "D:\\UnityProject\\TargemTestovoe\\ConsoleApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{154ABA0D-5F5C-432A-9F27-98501B5328ED}|ConsoleApplication2\\ConsoleApplication2.vcxproj|D:\\Plusiki\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{154ABA0D-5F5C-432A-9F27-98501B5328ED}|ConsoleApplication2\\ConsoleApplication2.vcxproj|D:\\UnityProject\\TargemTestovoe\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{154ABA0D-5F5C-432A-9F27-98501B5328ED}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -24,23 +24,22 @@
               "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\UnityProject\\LightGTFO\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "..\\..\\UnityProject\\LightGTFO\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\LightGTFO\\Assets\\Scripts\\GameManager.cs",
               "ToolTip": "D:\\UnityProject\\LightGTFO\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "..\\..\\UnityProject\\LightGTFO\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "..\\..\\LightGTFO\\Assets\\Scripts\\GameManager.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAcwF0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T23:38:13.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T23:38:13.954Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication2.cpp",
-              "DocumentMoniker": "D:\\Plusiki\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "DocumentMoniker": "D:\\UnityProject\\TargemTestovoe\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication2\\ConsoleApplication2.cpp",
-              "ToolTip": "D:\\Plusiki\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ToolTip": "D:\\UnityProject\\TargemTestovoe\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
               "RelativeToolTip": "ConsoleApplication2\\ConsoleApplication2.cpp",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAAAH4AAAAUAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAIMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-14T07:24:30.743Z",
               "EditorCaption": ""
